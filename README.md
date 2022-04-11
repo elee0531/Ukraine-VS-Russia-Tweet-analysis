@@ -3,11 +3,11 @@
 Utilizing Twarc to mine 10,000 tweets for #Russia and # Ukraine on March 8th, 2022<br />
 Topic modeling with BERT model and sentiment analysis on top 5 topics for each #Russia and # Ukraine
 
-Data loading<br />
-Tweet cleaning and preprocessing including Regex processing and remove stopwords<br />
-Lemmatize the tweets with tokenization<br />
-Topic modeling and VADER sentiment analysis on top 5 topics<br />
-Visualization including topic bar chart, matplotlib, seaborn, and wordcloud<br />
+- Data loading<br />
+- Tweet cleaning and preprocessing including Regex processing and remove stopwords<br />
+- Lemmatize the tweets with tokenization<br />
+- Topic modeling and VADER sentiment analysis on top 5 topics<br />
+- Visualization including topic bar chart, matplotlib, seaborn, and wordcloud<br />
 
 **#Russia**
 ![image](https://user-images.githubusercontent.com/29983165/162652943-b5327f2f-2f20-440c-9880-50d3bd3e1eb3.png)
